@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @alfagaikwad
-- 👀 I’m interested in Technology...
-- 🌱 I’m currently learning FULL STACK DEVELOPMENT ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-alfagaikwad/alfagaikwad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ Hi there! 
+ I’m a Laravel developer with 3 years of experience building dynamic and scalable web applications.
+💻 Passionate about writing clean, efficient code and solving complex problems with PHP and Laravel.
+🔧 Skilled in Laravel, PHP, MySQL, RESTful APIs, and modern front-end technologies.
+🚀 Open to collaboration on exciting projects and always eager to learn new things.
